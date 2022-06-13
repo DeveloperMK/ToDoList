@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Student08/AndroidStudioProjects/ToDoListA/app/src/main/res/drawable/ic_icon.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/Student08/AndroidStudioProjects/ToDoListA/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Student08/AndroidStudioProjects/ToDoListA/app/src/main/res/layout/activity_sharing.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Student08/AndroidStudioProjects/ToDoListA/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/lizim/Downloads/TodoListApp-20220605T182319Z-001/TodoListApp/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/lizim/Downloads/TodoListApp-20220605T182319Z-001/TodoListApp/app/src/main/res/layout/activity_splash.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/lizim/Downloads/TodoListApp-20220605T182319Z-001/TodoListApp/app/src/main/res/layout/new_task.xml" value="0.17552083333333332" />
